@@ -1,4 +1,4 @@
-# 🏢 Vue 3 Company Dashboard
+# 🏢 Vue + Prime Vue + Tailwind App
 
 A responsive admin dashboard built with **Vue 3**, **Vite**, **Tailwind CSS**, **TypeScript**, and **Vue Router**. Inspired by modern HR interfaces, it features a sidebar, sticky header, search, notifications, and a dynamic employees table.
 
